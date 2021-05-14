@@ -1,0 +1,5 @@
+moc_*
+*.o
+.qmake.stash
+Makefile
+view

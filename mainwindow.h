@@ -2,7 +2,9 @@
 #define MAINWINDOW_H
 
 #include <QtGui>
+#include <QFileSystemModel>
 #include <QMainWindow>
+#include <QTreeView>
 
 #include "highlighter.h"
 

@@ -1,5 +1,14 @@
 #include "mainwindow.h"
 
+#include "QAction"
+#include "QApplication"
+#include "QFileDialog"
+#include "QHBoxLayout"
+#include "QMenu"
+#include "QMenuBar"
+#include "QStatusBar"
+#include "QTextEdit"
+
 MainWindow::MainWindow()
 {
     setupEditor();
