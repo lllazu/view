@@ -1,1 +1,1 @@
-view is editor.. wow
+Qt editor
